@@ -1,13 +1,19 @@
-<h1 align="left">Hey, I'm Aditya 👋</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Sharma&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CMO%20%40%20POSIMYTH%20%7C%20WordPress%20%E2%80%A2%20AI%20%E2%80%A2%20Growth&descAlignY=58&descAlign=50)
 
-<p align="left">
-  Marketing & Growth at <strong><a href="https://posimyth.com">POSIMYTH Innovation</a></strong> — 
-  we build WordPress products used by <strong>100,000+ creators and developers</strong> worldwide.<br/><br/>
-  My days are a mix of SEO strategy, conversion funnels, server management, AI automation, and shipping products that feel great to use.
-  I care deeply about the intersection of <strong>design → code → growth</strong>.
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7863A&center=true&vCenter=true&width=520&lines=Marketing+%26+Growth+Lead+%40+POSIMYTH;Building+WordPress+products+for+100k%2B+users;Figma+%E2%86%92+WordPress+with+UiChemy;AI+Automation+with+Claude+%26+n8n;Elementor+Power+User+%26+Builder" alt="Typing SVG" />
+  </a>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://adityaarsharma.com"><img src="https://img.shields.io/badge/adityaarsharma.com-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://youtube.com/@adityaarsharma"><img src="https://img.shields.io/badge/@adityaarsharma-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/adityaarsharma"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/adityaarsharma"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+</p>
+
+---
 
 ## 🧩 What We're Building at POSIMYTH
 
@@ -20,14 +26,14 @@
 | [UiChemy](https://uichemy.com) | Convert Figma designs directly to WordPress |
 | [WDesignKit](https://wdesignkit.com) | Templates, widgets & design system library |
 
-<br/>
+---
 
 ## ⚡ Open Source I've Shipped
 
 - 🎬 **[YouTube MCP Server](https://github.com/adityaarsharma/youtube-mcp-server)** — Read analytics, update video SEO, manage uploads via Claude AI
 - 🖥️ **[RunCloud Server Management MCP](https://github.com/adityaarsharma/runcloud-server-management-mcp)** — 135 tools to manage, monitor & self-heal Linux servers from Claude
 
-<br/>
+---
 
 ## 🛠️ My Stack
 
@@ -53,26 +59,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<br/>
-
-## 🌐 Find Me
-
-[![Website](https://img.shields.io/badge/adityaarsharma.com-000?style=for-the-badge&logo=About.me&logoColor=white)](https://adityaarsharma.com)
-[![YouTube](https://img.shields.io/badge/@posimyth-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@posimyth)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaarsharma)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/adityaarsharma)
-
-<br/>
-
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaarsharma&theme=blue-green&layout=compact" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaarsharma&theme=dark&hide_border=true&stroke=F7863A&ring=F7863A&fire=F7863A&currStreakLabel=F7863A" alt="GitHub Streak"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaarsharma&theme=blue-green" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityaarsharma&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)

@@ -2,7 +2,7 @@
 
 # Aditya Sharma
 
-**Builder · WordPress Infrastructure · AI Automation**
+**Builder · WordPress Infrastructure · AI Automation · MCP Servers**
 
 [![Website](https://img.shields.io/badge/adityaarsharma.com-000?style=flat-square&logo=About.me&logoColor=white)](https://adityaarsharma.com)
 [![YouTube](https://img.shields.io/badge/@adityaarsharma-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@adityaarsharma)
@@ -40,8 +40,9 @@ Most of my work is at the intersection of **developer tooling**, **AI integratio
 
 ## Currently
 
-- Building MCP servers that connect Claude to real systems (WordPress, YouTube, servers)
-- Working on Orbit — a UAT platform for WordPress plugin teams
+- Building Pickle — a Claude Code plugin for manager productivity (ClickUp + Slack + daily reports) · coming soon
+- Launched [RankReady](https://store.posimyth.com/plugins/rankready/) — WordPress plugin for LLM/AI SEO: summaries, FAQ schema, llms.txt, freshness alerts
+- Pre-launching Jyotisha — a Vedic astrology MCP with 28 tools and a Razorpay-gated API
 - Running a YouTube channel on WordPress, AI tooling, and automation
 
 ---

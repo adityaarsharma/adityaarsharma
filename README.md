@@ -7,7 +7,7 @@
 **Marketing · Products · Vibe Coding · WordPress · AI**
 
 [![Website](https://img.shields.io/badge/adityaarsharma.com-000?style=flat-square&logo=About.me&logoColor=white)](https://adityaarsharma.com)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCPChp9hLnrKX9FY1ZzFCyJw?style=flat-square&logo=YouTube&logoColor=white&label=%40adityaarsharma&color=FF0000)](https://youtube.com/@adityaarsharma)
+[![YouTube](https://img.shields.io/badge/%40adityaarsharma-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@adityaarsharma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaarsharma)
 [![Twitter](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/adityaarsharma)
 [![npm](https://img.shields.io/npm/dm/youtube-channel-mcp?style=flat-square&logo=npm&label=npm%20downloads&color=CB3837)](https://www.npmjs.com/package/youtube-channel-mcp)

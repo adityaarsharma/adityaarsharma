@@ -56,6 +56,17 @@ I lead marketing and growth across all four POSIMYTH WordPress products.
 
 ---
 
+## Marketing Consulting
+
+I work with WordPress-ecosystem companies on growth, content strategy, and AI-driven marketing systems.
+
+| Company | What they do |
+|---------|-------------|
+| [HostMyBlog](https://hostmy.blog) | Managed WordPress hosting + maintenance for bloggers — migrations, security, speed optimization |
+| [RunCloud](https://runcloud.io) | Server control panel for PHP/WordPress — deploy and manage cloud servers without Linux expertise |
+
+---
+
 ## Stack
 
 **Core:** WordPress · PHP · Node.js · Python · Playwright · Linux  

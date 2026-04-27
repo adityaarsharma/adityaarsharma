@@ -2,10 +2,10 @@
 
 # Aditya Sharma
 
-**Builder · WordPress Infrastructure · AI Automation · MCP Servers**
+**Marketing & Growth · POSIMYTH Innovation · WordPress · AI Automation**
 
 [![Website](https://img.shields.io/badge/adityaarsharma.com-000?style=flat-square&logo=About.me&logoColor=white)](https://adityaarsharma.com)
-[![YouTube](https://img.shields.io/badge/@adityaarsharma-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@adityaarsharma)
+[![YouTube](https://img.shields.io/badge/@posimyth-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://youtube.com/@posimyth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaarsharma)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/adityaarsharma)
 
@@ -13,37 +13,55 @@
 
 ---
 
-I build tools for WordPress, automate things with Claude + n8n, and run MCP servers on Linux.
+I build AI-native tools for WordPress creators, server operators, and YouTube channels.
 
-Most of my work is at the intersection of **developer tooling**, **AI integration**, and **WordPress infrastructure**.
+Most of my work sits at the intersection of **AI automation**, **developer tooling**, and **product growth** — where one well-built tool compounds across thousands of users.
+
+Philosophy: free tools build community, freemium builds revenue. Every tool I ship is either genuinely free forever or freemium with a real free tier — not crippled demos.
+
+> All products are getting dedicated landing pages at **[adityaarsharma.com](https://adityaarsharma.com)** — coming soon.
 
 ---
 
-## Open Source
+## Personal Projects
+
+### Free — Community Tools
 
 | Project | What it does |
-|---|---|
-| [youtube-mcp-server](https://github.com/adityaarsharma/youtube-mcp-server) | Claude tool to read YouTube analytics, manage video SEO, pull channel data |
-| [runcloud-server-management-mcp](https://github.com/adityaarsharma/runcloud-server-management-mcp) | 135-tool MCP server for managing Linux servers via RunCloud API |
-| [orbit](https://github.com/adityaarsharma/orbit) | UAT platform for WordPress plugins — Playwright-based, video recording, HTML reports |
+|---------|-------------|
+| [youtube-marketing-skills](https://github.com/adityaarsharma/youtube-marketing-skills) | AI layer that replaces VidIQ — 21 commands, live YouTube data, pushes to WordPress. Free forever. |
+| [perch](https://github.com/adityaarsharma/perch) | RunCloud server management via Claude + Telegram. 135 tools. Servers under one wing. Free forever. |
+| [orbit](https://github.com/adityaarsharma/orbit) | WordPress plugin QA framework — Playwright, visual regression, accessibility, HTML reports. Free forever. |
+
+### Freemium — Revenue Products
+
+| Project | What it does |
+|---------|-------------|
+| [pickle](https://github.com/adityaarsharma/pickle) | Claude Code skill for manager productivity — scans ClickUp + Slack, extracts what needs you, tracks follow-ups. |
+| [rankready](https://github.com/adityaarsharma/rankready) | WordPress plugin for AI/LLM SEO — llms.txt, EEAT author schema, FAQ generator, AI summaries, Markdown endpoints. Get cited by ChatGPT, Perplexity, Google AI. |
+| [jyotisha](https://adityaarsharma.com) | Vedic astrology MCP + API — 28 tools, Razorpay-gated, top plan ~$5,000. |
+
+---
+
+## POSIMYTH Products
+
+I lead marketing and growth across all four POSIMYTH WordPress products.
+
+| Product | What it does |
+|---------|-------------|
+| [The Plus Addons for Elementor](https://theplusaddons.com) | 120+ Elementor widgets — navigation, scroll, forms, animations, pricing tables |
+| [WDesignKit](https://wdesignkit.com) | Elementor widget library + design templates |
+| [NexterWP](https://nexterwp.com) | WordPress theme builder + Gutenberg blocks |
+| [UiChemy](https://uichemy.com) | Figma-to-WordPress converter |
 
 ---
 
 ## Stack
 
-**Core:** WordPress · PHP · Playwright · Python · Node.js · Linux  
-**AI:** Claude (Anthropic API) · n8n · MCP protocol  
+**Core:** WordPress · PHP · Node.js · Python · Playwright · Linux  
+**AI:** Claude (Anthropic API) · n8n · MCP Protocol  
 **Infra:** Hetzner · RunCloud · Nginx · Cloudflare · Docker  
-**Design:** Figma
-
----
-
-## Currently
-
-- Building Pickle — a Claude Code plugin for manager productivity (ClickUp + Slack + daily reports) · coming soon
-- Launched [RankReady](https://store.posimyth.com/plugins/rankready/) — WordPress plugin for LLM/AI SEO: summaries, FAQ schema, llms.txt, freshness alerts
-- Pre-launching Jyotisha — a Vedic astrology MCP with 28 tools and a Razorpay-gated API
-- Running a YouTube channel on WordPress, AI tooling, and automation
+**Design:** Figma · Elementor
 
 ---
 

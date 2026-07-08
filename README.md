@@ -63,7 +63,7 @@ This is the stack behind most of the tools on this page.
 
 ## POSIMYTH
 
-I lead growth and marketing at POSIMYTH across four WordPress products + two developer tools.
+I lead growth and marketing at POSIMYTH across four WordPress products and a growing set of developer & AI tools.
 
 | Product | What It Does |
 |---------|-------------|
@@ -73,6 +73,9 @@ I lead growth and marketing at POSIMYTH across four WordPress products + two dev
 | [UiChemy](https://uichemy.com) | Figma to WordPress |
 | [RankReady](https://github.com/adityaarsharma/rankready) | LLM SEO toolkit for WordPress |
 | [Orbit](https://github.com/adityaarsharma/orbit) | WordPress QA framework |
+| [SproutOS](https://sproutos.ai) | AI-powered WordPress MCP — gives AI agents full access to a site's pages, themes, files, code & database |
+
+**The marketing itself runs on agents I built.** Behind POSIMYTH's growth is a multi-agent marketing team I designed and run — 15+ specialized AI agents, roughly one per function: CMO strategy, product marketing, email, paid ads, SEO, content, social & community, YouTube, sales, support, release notes, docs, and visual/brand. Each one pulls from the company knowledge brain, drafts in the POSIMYTH voice, enforces brand + quality rules, and ships — so a lean team operates like a full marketing department.
 
 ---
 

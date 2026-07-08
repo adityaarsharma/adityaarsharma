@@ -34,7 +34,7 @@ Check out everything at **[adityaarsharma.com](https://adityaarsharma.com)**
 
 | Tool | The Problem | What It Does | Stars |
 |------|-------------|--------------|-------|
-| [grabio](https://mcp.adityaarsharma.com/grabio) | Downloading audio/video from any social URL on iPhone was painful. | One Apple Shortcut tap. Pulls MP3/MP4 from Instagram, YouTube, TikTok, X. Lossy-safe re-encode. | [![Live](https://img.shields.io/badge/live-22c55e?style=flat-square)](https://mcp.adityaarsharma.com/grabio) |
+| [grabio](https://mcp.adityaarsharma.com/grabio) | Converting, compressing, and grabbing media on iPhone meant juggling a dozen sketchy apps. | One Apple Shortcut, 23 file utilities. Convert & compress files, and pull MP3/MP4 from Instagram, YouTube, TikTok, X. No app, no signup, no tracking. | [![Live](https://img.shields.io/badge/live-22c55e?style=flat-square)](https://mcp.adityaarsharma.com/grabio) |
 | [hatch](https://github.com/adityaarsharma/hatch) | Installing WordPress plugins from GitHub was 8 manual steps every time. | One click. OAuth broker on Vercel handles auth, the wizard handles the install. | ![Stars](https://img.shields.io/github/stars/adityaarsharma/hatch?style=flat-square&color=gold) |
 | [youtube-marketing-skills](https://github.com/adityaarsharma/youtube-marketing-skills) | YouTube SEO was eating hours on every video. | 21 commands, 10 live channel tools. Reads my channel, writes the SEO, pushes to YouTube. Works in Claude Code, Cursor, Codex, Gemini CLI. | ![Stars](https://img.shields.io/github/stars/adityaarsharma/youtube-marketing-skills?style=flat-square&color=gold) |
 | [librecrawl-technical-seo-audit-mcp](https://github.com/adityaarsharma/librecrawl-technical-seo-audit-mcp) | Technical SEO crawlers are SaaS, page-capped, and none were AI-native. | 37 MCP tools, 50+ checks, unlimited pages, WAF detection, ephemeral by design. Claude, Cursor, Codex. | ![Stars](https://img.shields.io/github/stars/adityaarsharma/librecrawl-technical-seo-audit-mcp?style=flat-square&color=gold) |
@@ -44,6 +44,16 @@ Check out everything at **[adityaarsharma.com](https://adityaarsharma.com)**
 | [pickle](https://github.com/adityaarsharma/pickle) | ClickUp + Slack together is a context-switching nightmare. | Scans both every morning, surfaces what needs my attention, drafts the follow-ups. | ![Stars](https://img.shields.io/github/stars/adityaarsharma/pickle?style=flat-square&color=gold) |
 | [rankready](https://github.com/adityaarsharma/rankready) | Getting WordPress content cited by AI systems was complicated. | Auto-generates llms.txt, EEAT schema, FAQ, AI summaries, Markdown endpoints. One plugin. | ![Stars](https://img.shields.io/github/stars/adityaarsharma/rankready?style=flat-square&color=gold) |
 | [karma-jyotisha](https://karmajyotisha.adityaarsharma.com) | Vedic astrology calculations needed expensive software, and no AI agent could read a chart. | 28 MCP tools doing live Vedic calculations. Natal charts, dashas, muhurtas, Panchanga. No gemstones, no fear, no shortcuts. | [![Live](https://img.shields.io/badge/live-22c55e?style=flat-square)](https://karmajyotisha.adityaarsharma.com) |
+
+---
+
+## Knowledge Brains — the thing companies hire me for
+
+Every team I work with loses hours to scattered knowledge — docs, tickets, chat threads, tribal memory no agent or new hire can reach. So I build **knowledge brains**: private, self-hosted AI memory a whole company (and its agents) can query as one source of truth — durable, versioned, audit-logged, and walled per brand so nothing leaks across boundaries.
+
+They're **MCP-native**, so any agent — Claude, Cursor, Codex — wakes up, searches the brain, and acts with full context instead of starting cold. I run them in production behind a 500K-install WordPress business and for my own brand.
+
+**Want one for your company?** Wiring agents, MCPs, and a knowledge brain into how your team actually works — and onboarding people onto AI that respects your data — is exactly what I consult on.
 
 ---
 
@@ -64,7 +74,7 @@ I lead growth and marketing at POSIMYTH across four WordPress products + two dev
 
 ## Consulting
 
-I occasionally work with WordPress-ecosystem companies on growth and content.
+I work with companies on growth, WordPress engineering, and **AI onboarding** — wiring agents, MCPs, and knowledge brains into how a team actually operates. **Open to new work, always — if you have something, DM me anytime.**
 
 | Company | What I Do There |
 |---------|----------------|
@@ -77,7 +87,7 @@ I occasionally work with WordPress-ecosystem companies on growth and content.
 
 **Languages:** PHP, Node.js, Python, Bash  
 **Systems:** Linux, Docker, Nginx, Cloudflare, Hetzner, RunCloud  
-**AI:** Claude API, MCP Protocol, n8n, Claude Code skills  
+**AI:** Claude API, MCP Protocol, agent knowledge brains, n8n, Claude Code skills  
 **WordPress:** Elementor, Gutenberg, WooCommerce, custom plugin dev  
 **Data:** DataForSEO, Google Search Console, GA4, YouTube Analytics API  
 **Design:** Figma, Elementor
@@ -86,7 +96,8 @@ I occasionally work with WordPress-ecosystem companies on growth and content.
 
 <div align="center">
 
-**If you're building with WordPress, YouTube, or AI, let's talk.**
+**Building with WordPress, YouTube, or AI — or want AI onboarding + a knowledge brain for your team?**
+**DM me anytime. I'm always up.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaarsharma)
 [![X](https://img.shields.io/badge/Follow%20on%20X-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/adityaarsharma)

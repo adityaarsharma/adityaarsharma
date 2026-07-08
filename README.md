@@ -47,13 +47,17 @@ Check out everything at **[adityaarsharma.com](https://adityaarsharma.com)**
 
 ---
 
-## Knowledge Brains — the thing companies hire me for
+## Knowledge Brains, AI Agents & RAG
 
-Every team I work with loses hours to scattered knowledge — docs, tickets, chat threads, tribal memory no agent or new hire can reach. So I build **knowledge brains**: private, self-hosted AI memory a whole company (and its agents) can query as one source of truth — durable, versioned, audit-logged, and walled per brand so nothing leaks across boundaries.
+The AI layer I build for my own work and the companies I operate in — durable memory, retrieval, and agents that actually know the context instead of starting cold every time.
 
-They're **MCP-native**, so any agent — Claude, Cursor, Codex — wakes up, searches the brain, and acts with full context instead of starting cold. I run them in production behind a 500K-install WordPress business and for my own brand.
+- **Company knowledge brains** — private, self-hosted AI memory a whole company (and its agents) query as one source of truth: versioned, audit-logged, and walled per brand so nothing leaks across boundaries. Running in production behind a 500K-install WordPress business and my own brand.
+- **RAG pipelines** — ingest docs, tickets, chat, and transcripts → chunk, embed, retrieve → answers grounded in *my* data with citations, not guesses.
+- **AI chat agents** — MCP-native agents (Claude, Cursor, Codex, Gemini CLI) that wake up, search the brain, and act — across servers, WordPress, YouTube, CRM, and project tools.
+- **Personal knowledge system** — my own second brain: what I read, build, and decide, queryable by any agent I run.
+- **The glue** — MCP servers, Claude Code skills & subagents, n8n automations, and per-brand key walls that keep each brain isolated.
 
-**Want one for your company?** Wiring agents, MCPs, and a knowledge brain into how your team actually works — and onboarding people onto AI that respects your data — is exactly what I consult on.
+This is the stack behind most of the tools on this page.
 
 ---
 

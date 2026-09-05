@@ -24,7 +24,7 @@ I'm a marketer who kept running into the same problem: the tools existed, but th
 
 So I learned to build it. Docker, Linux, servers, Node.js, WordPress internals. I didn't set out to be a developer. I just got tired of waiting for someone else to build what I needed.
 
-Three things I actually do well: **marketing, building products, and vibe coding** until something works.
+Three things I actually do well: **marketing, building products, and shipping the tooling** rather than waiting for it.
 
 Everything on this page started as something I built for myself. When it saved me enough time, I cleaned it up and shipped it.
 

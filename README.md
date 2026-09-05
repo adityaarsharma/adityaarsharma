@@ -83,22 +83,14 @@ I lead growth and marketing at POSIMYTH across four WordPress products and a gro
 
 ---
 
-## Etica Studio
-
-Co-founder. Etica is the company behind the hosting and site-operations side of my work.
-
-| Product | What It Is |
-|---------|-----------|
-| [HostMy.blog](https://hostmy.blog) | Managed WordPress hosting for bloggers. I run the site, the branding and the business strategy |
-| [RankReady](https://wordpress.org/plugins/rankready-ai-llm-seo/) | AI and LLM SEO for WordPress: schema, llms.txt, AEO and GEO |
-
----
-
 ## Consulting
 
-I work with companies on growth, WordPress engineering, and **AI onboarding**, wiring agents, MCPs, and knowledge brains into how a team actually operates. I also run the servers behind fifty-plus sites on [RunCloud](https://runcloud.io), and built the MCP server and Telegram agent that manage them.
+I work with companies on growth, WordPress engineering, and **AI onboarding**, wiring agents, MCPs, and knowledge brains into how a team actually operates. **Open to new work, always. If you have something, DM me anytime.**
 
-**Open to new work, always. If you have something, DM me anytime.**
+| Company | What I Do There |
+|---------|----------------|
+| [HostMyBlog](https://hostmy.blog) | Growth and content strategy for managed WordPress hosting |
+| [RunCloud](https://runcloud.io) | Marketing for the server control panel ecosystem |
 
 ---
 

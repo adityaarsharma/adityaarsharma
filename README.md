@@ -65,9 +65,9 @@ This is the stack behind most of the tools on this page.
 
 ---
 
-## POSIMYTH
+## Product & Growth
 
-I lead growth and marketing at POSIMYTH across four WordPress products and a growing set of developer & AI tools.
+I work on product and growth across four WordPress products and a growing set of developer & AI tools.
 
 | Product | What It Does |
 |---------|-------------|
@@ -79,7 +79,7 @@ I lead growth and marketing at POSIMYTH across four WordPress products and a gro
 | [Orbit](https://github.com/adityaarsharma/orbit) | WordPress QA framework |
 | [SproutOS](https://sproutos.ai) | AI-powered WordPress MCP that gives AI agents full access to a site's pages, themes, files, code & database |
 
-**The marketing itself runs on agents I built.** Behind POSIMYTH's growth is a multi-agent marketing team I designed and run: 15+ specialized AI agents, roughly one per function: CMO strategy, product marketing, email, paid ads, SEO, content, social & community, YouTube, sales, support, release notes, docs, and visual/brand. Each one pulls from the company knowledge brain, drafts in the POSIMYTH voice, enforces brand + quality rules, and ships, so a lean team operates like a full marketing department.
+**The marketing itself runs on agents I built.** Behind that growth is a multi-agent marketing team I designed and run: 15+ specialized AI agents, roughly one per function: growth strategy, product marketing, email, paid ads, SEO, content, social & community, YouTube, sales, support, release notes, docs, and visual/brand. Each one pulls from the company knowledge brain, drafts in the brand voice, enforces brand + quality rules, and ships, so a lean team operates like a full marketing department.
 
 ---
 

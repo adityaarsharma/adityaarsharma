@@ -15,7 +15,7 @@ I check the thing everyone trusts, and write down what I actually found.
 [![Leave a tip](https://img.shields.io/badge/Leave%20a%20tip-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/adityaarsharma)
 [![npm](https://img.shields.io/npm/dm/youtube-channel-mcp?style=flat-square&logo=npm&label=npm%20downloads&color=CB3837)](https://www.npmjs.com/package/youtube-channel-mcp)
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityaarsharma&color=6366f1&style=flat-square&label=profile+views)
+![Profile Views](https://hits.sh/github.com/adityaarsharma.svg?style=flat-square&label=profile%20views&color=6366f1&labelColor=555555)
 
 </div>
 
